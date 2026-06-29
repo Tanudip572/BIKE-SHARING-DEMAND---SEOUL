@@ -13,13 +13,12 @@ The project includes complete data preprocessing, exploratory data analysis (EDA
 ```
 Bike-Rental-Demand-Prediction/
 │
+├── pre_processed.pkl                 # Preprocessed dataset
 ├── EDA.ipynb                         # Exploratory Data Analysis
 ├── Linear_Regression.ipynb           # Linear Regression Model
 ├── Regression_Tree.ipynb             # Decision Tree Regressor
 ├── Random_Forest_Regressor.ipynb     # Random Forest Model
 ├── XGBoost_Regressor.ipynb           # XGBoost Model
-├── pre_processed.pkl                 # Preprocessed dataset
-├── requirements.txt
 └── README.md
 ```
 
